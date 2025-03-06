@@ -7,3 +7,5 @@ All the details about the works i have done using various BI tools and technolog
 - Integrated advanced filters for dynamic analysis across 15 countries, 141 cities, and 1,826 cuisines, enhancing user engagement by simplifying complex data visualization.
 - Designed and managed MySQL databases with robust schemas, foreign key constraints, and optimized queries for reporting, including salary breakdowns, employee rankings, and departmental performance.
 - Implemented multi-table joins to analyze business data, mapping orders, salespeople, and locations, with insights on top earners, customer segmentation, and sales performance.
+
+## [Data_analysis_using_python](https://swalih-works.github.io/data-science-works/)
