@@ -1,5 +1,5 @@
 # Swalih-s_analysis
-All the details about the projects i have done using various BI tools.
+All the details about the works i have done using various BI tools and technologies.
 
 ## Project 1 - [Zomato_Analytics](https://swalih-works.github.io/Zomato_Analytics/)
 
