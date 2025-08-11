@@ -17,7 +17,7 @@ All the details about the works i have done using various BI tools and technolog
 - **Power BI connects to MySQL** via **ODBC**, transforming raw data into **interactive dashboards** with **KPI cards, bar charts, line charts, pie charts, and geo maps**, along with **date filters** for dynamic      analysis.
 - **Enhances business intelligence** by providing **real-time sales monitoring, customer insights, and performance tracking**, allowing businesses to **optimize sales strategies and improve decision-making** for      sustainable growth.  
 
-## 4. Project - [Healthcare_Appointments_insights](https://swalih-works.github.io/healthcare_appointments_insights/)
+## 4. Project - [Healthcare_Appointments_insights](https://swalih-works.github.io/Healthcare_Appointments_insights/)
 
 **Project Goal:** To analyze hospital appointment data and understand the reasons behind patient no-shows.
 **Tools Used:** MySQL for data management and querying, and Power BI for creating an interactive dashboard.
